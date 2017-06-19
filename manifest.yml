@@ -1,0 +1,8 @@
+---
+applications:
+- name: actuator-integration-test
+  path: build/libs/actuator-integration-pcf-test-0.0.1-SNAPSHOT.jar
+  memory: 768M
+  buildpack: java_buildpack
+
+
